@@ -35,6 +35,7 @@ header {
   padding: 1rem;
   background-color: var(--primary-color);
   color: #fff;
+  ;
 }
 
 header h1 {
@@ -43,7 +44,7 @@ header h1 {
 }
 
 nav {
-  text-align: right;
+  text-align:end;
 }
 
 nav > a {
